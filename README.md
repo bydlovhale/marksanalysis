@@ -3,13 +3,12 @@
 
 Python tool to analyze student marks from a CSV and generate basic statistics and graphs.
 
-## Features
-- Reads marks from CSV
-- Calculates average, highest, lowest
-- Plots distribution using Matplotlib
 
-## Tech
-- Python (`pandas`, `matplotlib`)
+ Reads marks from CSV
+Calculates average, highest, lowest
+ Plots distribution using Matplotlib
+
+used Python (`pandas`, `matplotlib`)
 
 ## Run
 ```bash
